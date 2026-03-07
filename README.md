@@ -95,7 +95,8 @@ I am not going to distribute a Growcastle decompilation, but I can legally give 
 
 ## 🤝 Contributing
 
-Chances are, I will rarely check this account. Please report issues, or better yet, make a fix yourself and submit a pull request!
+Chances are, I will rarely check this account. Please report issues, or better yet, make a fix yourself and submit a pull request!  
+Please do not be the person to just say 'the app broke', give a description.
 
 ## 🏆 Credits
 
