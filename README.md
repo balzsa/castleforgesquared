@@ -30,6 +30,9 @@ Edit your Growcastle save file to your heart's content. Currently supported edit
 **Why does this project exist?**
 > Because the developer just doesn't care about the game! Neither should you.
 
+**Why is my save corrupting?**
+> Are you under 500 waves? If not, report the issue and send your logs too, but do not send your data.dat/temp file. I am currently trying to determine if it is safe to give people your data.dat/temp, which could help a lot in debugging, but I don't have enough data to confirm or deny it is safe.
+
 **Why is it so unfinished?**
 > I took an insult personally on the internet and released this early.
 
