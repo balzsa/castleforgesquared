@@ -5,7 +5,7 @@
 **A message to the Dev:** If you want me to cancel working on this project, I am willing to do that, and also help improve security on your game. Just contact the public email on my GitHub profile, and preferably, use your raongames.com email. Until then, here we are.
 
 > [!NOTE]  
-> **Release Status:** I am going to release this in a few days. This will either be the climax of GrowCastle or the most anti-climactic thing to exist. Pray it works. (Heavily WIP).
+> **Release Status:** The release date is unconfirmed. I am trying to determine a few things, and honestly, I don't want to work on this any more.
 
 ---
 
